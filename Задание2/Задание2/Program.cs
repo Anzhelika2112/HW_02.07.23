@@ -64,7 +64,7 @@ void ElementPozition(int[,] arr, int rowsPoz, int columnsPoz, int rows1, int col
             {
                 Console.Write($"Значение элемента = {arr[rowsPoz - 1, columnsPoz - 1]}");
             }
-            else Console.Write("Такого числа в массиве нет");
+            else Console.Write("Такого элемента в массиве нет");
             break;
         }
         break;
