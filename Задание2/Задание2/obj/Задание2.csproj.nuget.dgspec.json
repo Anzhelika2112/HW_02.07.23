@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\anjel\\OneDrive\\Рабочий стол\\GeekBrains\\Знакомство с языками программирования (лекции)\\Знакомство с языком программирования C#\\Домашка\\HW_02.07.23\\Задание2\\Задание2\\Задание2.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\anjel\\OneDrive\\Рабочий стол\\GeekBrains\\Знакомство с языками программирования (лекции)\\Знакомство с языком программирования C#\\Домашка\\HW_02.07.23\\Задание2\\Задание2\\Задание2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\anjel\\OneDrive\\Рабочий стол\\GeekBrains\\Знакомство с языками программирования (лекции)\\Знакомство с языком программирования C#\\Домашка\\HW_02.07.23\\Задание2\\Задание2\\Задание2.csproj",
+        "projectName": "Задание2",
+        "projectPath": "C:\\Users\\anjel\\OneDrive\\Рабочий стол\\GeekBrains\\Знакомство с языками программирования (лекции)\\Знакомство с языком программирования C#\\Домашка\\HW_02.07.23\\Задание2\\Задание2\\Задание2.csproj",
+        "packagesPath": "C:\\Users\\anjel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\anjel\\OneDrive\\Рабочий стол\\GeekBrains\\Знакомство с языками программирования (лекции)\\Знакомство с языком программирования C#\\Домашка\\HW_02.07.23\\Задание2\\Задание2\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\anjel\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
